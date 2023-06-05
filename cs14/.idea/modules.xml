@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ss14_dependency.iml" filepath="$PROJECT_DIR$/.idea/ss14_dependency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cs14.iml" filepath="$PROJECT_DIR$/.idea/modules/cs14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cs14.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cs14.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cs14.test.iml" filepath="$PROJECT_DIR$/.idea/modules/cs14.test.iml" />
     </modules>
   </component>
 </project>
